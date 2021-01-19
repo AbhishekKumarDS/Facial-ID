@@ -1,2 +1,2 @@
 # Facial-ID
-Face Identification with MTCNN and Facenet
+Face Identification with MTCNN
