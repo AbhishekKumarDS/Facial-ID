@@ -1,0 +1,5 @@
+tensorflow
+numpy==1.19.3
+mtcnn
+keras_vggface
+keras_applications
