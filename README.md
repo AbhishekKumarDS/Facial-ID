@@ -1,6 +1,13 @@
 # Facial-ID
-Face Identification with MTCNN and VGGFace2
 
+## Face Identification with MTCNN and VGGFace2
+
+### Prerequisites: 
+1.  Python 3.6-3.8
+2.  pip 20.x.x
+3.  Windows 10
+
+### Tutorial:
 1.  To install and setup the dependencies, just run “Installer.bat” file. Internet Connection is required and around 400 Mb of Packages will be downloaded. 
 
 
